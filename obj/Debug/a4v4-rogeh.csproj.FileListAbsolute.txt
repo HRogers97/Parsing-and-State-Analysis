@@ -1,0 +1,14 @@
+C:\Users\Hunter\source\repos\a4v4-rogeh\bin\Debug\a4v4-rogeh.exe.config
+C:\Users\Hunter\source\repos\a4v4-rogeh\bin\Debug\a4v4-rogeh.exe
+C:\Users\Hunter\source\repos\a4v4-rogeh\bin\Debug\a4v4-rogeh.pdb
+C:\Users\Hunter\source\repos\a4v4-rogeh\obj\Debug\a4v4-rogeh.csprojResolveAssemblyReference.cache
+C:\Users\Hunter\source\repos\a4v4-rogeh\obj\Debug\a4v4-rogeh.csproj.CoreCompileInputs.cache
+C:\Users\Hunter\source\repos\a4v4-rogeh\obj\Debug\a4v4-rogeh.exe
+C:\Users\Hunter\source\repos\a4v4-rogeh\obj\Debug\a4v4-rogeh.pdb
+C:\Users\Hunter\Documents\School\fall 2018\Alg Design\a4\a4-rogehFOUR\a4v4-rogeh\bin\Debug\a4v4-rogeh.exe.config
+C:\Users\Hunter\Documents\School\fall 2018\Alg Design\a4\a4-rogehFOUR\a4v4-rogeh\bin\Debug\a4v4-rogeh.exe
+C:\Users\Hunter\Documents\School\fall 2018\Alg Design\a4\a4-rogehFOUR\a4v4-rogeh\bin\Debug\a4v4-rogeh.pdb
+C:\Users\Hunter\Documents\School\fall 2018\Alg Design\a4\a4-rogehFOUR\a4v4-rogeh\obj\Debug\a4v4-rogeh.csprojResolveAssemblyReference.cache
+C:\Users\Hunter\Documents\School\fall 2018\Alg Design\a4\a4-rogehFOUR\a4v4-rogeh\obj\Debug\a4v4-rogeh.csproj.CoreCompileInputs.cache
+C:\Users\Hunter\Documents\School\fall 2018\Alg Design\a4\a4-rogehFOUR\a4v4-rogeh\obj\Debug\a4v4-rogeh.exe
+C:\Users\Hunter\Documents\School\fall 2018\Alg Design\a4\a4-rogehFOUR\a4v4-rogeh\obj\Debug\a4v4-rogeh.pdb
