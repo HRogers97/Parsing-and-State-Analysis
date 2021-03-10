@@ -35,7 +35,7 @@ namespace rogeHa4v4
         static int w = 0;                           //Store largest word length (used for printing)
         static int[] myInts = new int[100];         //Array of integer numbers from lines
         static double[] myDbles = new double[100];  //Array of double numbers from lines
-        static int it = 0, d = 0;                   //Index to store next number in respective array
+        static int nextIndex = 0, d = 0;            //Index to store next number in respective array
 
         /************************************* MAIN CODE BLOCK *******************************************/
         static void Main(string[] args)
@@ -128,12 +128,12 @@ namespace rogeHa4v4
             WriteLine(top);
             WriteLine("║index       value║");
             WriteLine(mid);
-            for (int i = 0; i < it; i++)    //Go through array up to last index where a num was stored
+            for (int i = 0; i < nextIndex; i++)    //Go through array up to last index where a num was stored
             {
                 WriteLine("║" + i.ToString().PadRight(7) + myInts[i].ToString().PadLeft(10) + "║");
                 
                 //Display correct section of the table
-                if (i != it - 1)
+                if (i != nextIndex - 1)
                     WriteLine(mid);
                 else
                     WriteLine(bottom);
@@ -357,8 +357,8 @@ namespace rogeHa4v4
         /**************************************** NUM TO WHITE ******************************************/
         static void NumToWhite()
         {
-            myInts[it] = (int) AtoF(currentNum);   //Convert array of chars into integer
-            it++;                                  //Store index of last num in array
+            myInts[nextIndex] = (int) AtoF(currentNum);   //Convert array of chars into integer
+            nextIndex++;                                  //Store index of last num in array
             state = StateType.white;
             if (k < len - 1)
                 ch = line[++k];                    //Get next charcter
