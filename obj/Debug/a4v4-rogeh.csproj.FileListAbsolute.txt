@@ -12,3 +12,10 @@ C:\Users\Hunter\Documents\School\fall 2018\Alg Design\a4\a4-rogehFOUR\a4v4-rogeh
 C:\Users\Hunter\Documents\School\fall 2018\Alg Design\a4\a4-rogehFOUR\a4v4-rogeh\obj\Debug\a4v4-rogeh.csproj.CoreCompileInputs.cache
 C:\Users\Hunter\Documents\School\fall 2018\Alg Design\a4\a4-rogehFOUR\a4v4-rogeh\obj\Debug\a4v4-rogeh.exe
 C:\Users\Hunter\Documents\School\fall 2018\Alg Design\a4\a4-rogehFOUR\a4v4-rogeh\obj\Debug\a4v4-rogeh.pdb
+C:\Users\xboxd\Documents\GitHub\Parsing-and-State-Analysis\bin\Debug\a4v4-rogeh.exe.config
+C:\Users\xboxd\Documents\GitHub\Parsing-and-State-Analysis\bin\Debug\a4v4-rogeh.exe
+C:\Users\xboxd\Documents\GitHub\Parsing-and-State-Analysis\bin\Debug\a4v4-rogeh.pdb
+C:\Users\xboxd\Documents\GitHub\Parsing-and-State-Analysis\obj\Debug\a4v4-rogeh.csprojAssemblyReference.cache
+C:\Users\xboxd\Documents\GitHub\Parsing-and-State-Analysis\obj\Debug\a4v4-rogeh.csproj.CoreCompileInputs.cache
+C:\Users\xboxd\Documents\GitHub\Parsing-and-State-Analysis\obj\Debug\a4v4-rogeh.exe
+C:\Users\xboxd\Documents\GitHub\Parsing-and-State-Analysis\obj\Debug\a4v4-rogeh.pdb

@@ -1,12 +1,10 @@
 ﻿/*********************************************** ID BLOCK *****************************************************
- * Due Date:             November 19, 2018
  * Software Designer:    Hunter Rogers
- * Deliverable:          Assignment #4 (Version 4) --- Parsing and State Analysis
  * 
  * Description:          This program processes an array of strings for words and numbers. The programs
  *                       uses states and character types to determine what to do with each character. 
  *                       Transitions to and from different states will result in different actions. The
- *                       states are determined by the character type and the current state (E.G. if the
+ *                       states are determined by the character type and the current state (e.g. if the
  *                       next character is 'E' and the current state is num, it will transition into 
  *                       exponent state, otherwise it will go into word state). It then stores the lengths
  *                       of the words and the frequency of each length. It will also convert all the numbers
@@ -15,11 +13,6 @@
  **************************************************************************************************************/
 
 /************************************* PRELIMINARIES *******************************************/
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using static System.Console;
 
 namespace rogeHa4v4
@@ -107,8 +100,8 @@ namespace rogeHa4v4
             WriteLine("----------------\n");
 
             //Pieces of table for displaying results
-            string top = "╔═════════════════╗";
-            string mid = "╠═════════════════╣";
+            string top =    "╔═════════════════╗";
+            string mid =    "╠═════════════════╣";
             string bottom = "╚═════════════════╝";
 
             WriteLine("Word Results:");
